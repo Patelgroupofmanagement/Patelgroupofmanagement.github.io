@@ -567,14 +567,12 @@ li a:hover {
 .address{
   margin-top: -42.5%;
   margin-left: 150px;
-  position: move;
 font-size: 10px;
 }
 
 .contact{
-  margin-top: -150%;
+  margin-top: -50%;
   margin-left: 170px;
-  position: move;
    font-size: 15px;
 }
 .contact2{
